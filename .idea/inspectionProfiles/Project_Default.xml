@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="utils.*" />
+          <option value="main_program.UI_main.zx_main" />
+          <option value="Ui_Weiget.UiDZInterFace.setAttribute" />
+          <option value="main_program.zx_main.Ui_MainWindow.show" />
+          <option value="PySide6.QtCore.QFile.*" />
+          <option value="PySide2.QtCore.timeout.connect" />
+          <option value="typing.NamedTuple.multi_hand_landmarks" />
+          <option value="music_scrapy.music_scrapy.spiders.wy_music.WyMusicSpider.enc_txt" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

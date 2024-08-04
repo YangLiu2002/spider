@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41dd5871-8147-4238-8fb7-6bccbb456347" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="b8093e06-260c-4976-aeb5-859817c1a2d4" />
+  <component name="ProjectId" id="2kC9HqO6K8CJQu6FuZ9qsol7QdM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="scrapy" type="PythonConfigurationType" factoryName="Python">
+      <module name="scrapy_wallpaper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python_exe\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wall_paper/wall_paper" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wall_paper/wall_paper/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41dd5871-8147-4238-8fb7-6bccbb456347" name="Default Changelist" comment="" />
+      <created>1722776606738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722776606738</updated>
+      <workItem from="1722776608234" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="165" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1722776653326">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="309" y="165" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1019/2560.0.1280.672@0.0.1707.1019" timestamp="1722776653326" />
+    <state x="634" y="277" key="FileChooserDialogImpl" timestamp="1722776698029">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="634" y="277" key="FileChooserDialogImpl/0.0.1707.1019/2560.0.1280.672@0.0.1707.1019" timestamp="1722776698029" />
+    <state width="1663" height="216" key="GridCell.Tab.0.bottom" timestamp="1722776699256">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="216" key="GridCell.Tab.0.bottom/0.0.1707.1019/2560.0.1280.672@0.0.1707.1019" timestamp="1722776699256" />
+    <state width="1663" height="216" key="GridCell.Tab.0.center" timestamp="1722776699256">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="216" key="GridCell.Tab.0.center/0.0.1707.1019/2560.0.1280.672@0.0.1707.1019" timestamp="1722776699256" />
+    <state width="1663" height="216" key="GridCell.Tab.0.left" timestamp="1722776699256">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="216" key="GridCell.Tab.0.left/0.0.1707.1019/2560.0.1280.672@0.0.1707.1019" timestamp="1722776699256" />
+    <state width="1663" height="216" key="GridCell.Tab.0.right" timestamp="1722776699256">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="216" key="GridCell.Tab.0.right/0.0.1707.1019/2560.0.1280.672@0.0.1707.1019" timestamp="1722776699256" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scrapy_wallpaper$scrapy.coverage" NAME="scrapy Coverage Results" MODIFIED="1722776654979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wall_paper/wall_paper" />
+  </component>
+</project>
